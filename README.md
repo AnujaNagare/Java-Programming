@@ -1,2 +1,2 @@
-# Java-Programmin
+# Java-Programming
 basic Java Programs
