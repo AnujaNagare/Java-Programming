@@ -31,10 +31,11 @@ public class addDigits_num {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num=123;
+		int num=24;
 
-		int n = addDigits(num);
+		int n = addDigits(num); //Time complexity O(n)
 		System.out.println("number is:"+n);
+		System.out.println((num-1)%9+1); //Time complexity O(1)
 	}
 
 }
